@@ -21,3 +21,4 @@ The basic functionality (what the program should do) includes:
 The  basic  brief  above  is  what  you  should  aim  to  achieve  initially.  If  you  have  time  and  want  to  do  more  (and  want  some  extra  marks!)  you  can  the basic problem to be solved consider some additional requirements to make a more advanced version of your game. How  can  you  make  sure  your  system  is  reliable?  How  can  you  make  it  more  user-friendly?  How  could  you  make  it  look  better?  How  could  you motivate users to start using it?
 
 Received grade: 96/100
+Development finished at: 12/02/2019
